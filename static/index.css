@@ -1,5 +1,6 @@
 /* Custom CSS for black theme */
 body {
+  font-family: "Mullish", sans-serif;
   background-color: #000;
   color: #fff;
   margin: 0;
@@ -15,7 +16,6 @@ body {
 #header h1 {
   margin: 0;
   font-size: 24px;
-  font-family: 'Arial', sans-serif;
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
